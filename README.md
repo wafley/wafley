@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img width="100%" src="images/benneries.jpg" alt="Elgin Al-wafi">
+  <img width="100%" src="images/banneries.jpg" alt="Elgin Al-wafi">
 </p>
 
 <div align="center">
