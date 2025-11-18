@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=elsecx.elsecx&"  />
-  <img src="https://www.codewars.com/users/elsecx/badges/small"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wafley.wafley&"  />
+  <img src="https://www.codewars.com/users/wafley/badges/small"  />
 </div>
 
 ###
@@ -66,17 +66,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=elsecx&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsecx&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=elsecx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=wafley&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wafley&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=wafley&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=elsecx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <a href="https://github.com/elsecx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsecx&langs_count=10&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/wafley" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafley&langs_count=10&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/elsecx/elsecx/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/wafley/wafley/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
