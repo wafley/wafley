@@ -10,9 +10,7 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 
 <img src="https://raw.githubusercontent.com/wafley/wafley/output/snake.svg" alt="Snake animation" />
 
-```
-I am a freelance Full-Stack Developer with hands-on experience delivering web and mobile solutions for businesses and small-to-medium enterprises. I focus on writing clean, maintainable code and delivering projects on time with clear and professional communication.
-```
+`I am a freelance Full-Stack Developer with hands-on experience delivering web and mobile solutions for businesses and small-to-medium enterprises. I focus on writing clean, maintainable code and delivering projects on time with clear and professional communication.`
 
 ---
 
