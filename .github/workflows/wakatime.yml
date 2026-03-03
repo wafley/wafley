@@ -1,24 +1,32 @@
 name: Wakatime
 
 on:
-    workflow_dispatch:
+    workflow_dispatch: # Allow manual trigger
     schedule:
-        - cron: "0 0 * * *" # runs every day at midnight
+        - cron: "0 0 * * *" # Runs at 7:00 AM WIB daily
 
 jobs:
-    update-readme:
+    update-waka-time:
         runs-on: ubuntu-latest
         steps:
-            - name: Checkout repository
+            - name: Checkout
               uses: actions/checkout@v4
 
-            - uses: athul/waka-readme@master
+            - name: Wakatime
+              uses: athul/waka-readme@master
               with:
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-                  SHOW_TITLE: true
-                  SECTION_NAME: waka
-                  TIME_RANGE: last_7_days
+                  # Content
+                  BLOCKS: ->
+                  CODE_LANG: bash
                   LANG_COUNT: 5
                   SHOW_TIME: true
-                  SHOW_TOTAL: false
-                  STOP_AT_OTHER: true
+                  SHOW_TOTAL: true
+                  STOP_AT_OTHER: false
+                  IGNORED_LANGUAGES: YAML JSON TOML SVG TXT
+                  # Commit
+                  COMMIT_MESSAGE: "chore: update WakaTime stats"
+                  TARGET_BRANCH: main
+                  TARGET_PATH: README.md
+                  COMMITTER_NAME: GitHub Actions[Bot]
+                  COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
