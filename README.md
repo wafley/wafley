@@ -1,4 +1,8 @@
-# Alwafey (el)
+<p align="center" width="100%">
+  <img width="100%" src="images/github-header-banner.png" alt="Elgin Al-wafi">
+</p>
+
+# Elgin Al-wafi Dauliyah
 
 _Full-Stack Web Developer | PHP & JavaScript Specialist_
 
@@ -8,7 +12,11 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 ![Total Stars][stars-shield]
 ![Commits][commits-shield]
 
-<img src="https://raw.githubusercontent.com/wafley/wafley/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wafley/wafley/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wafley/wafley/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wafley/wafley/output/pacman-contribution-graph.svg">
+</picture>
 
 `I am a freelance Full-Stack Developer with hands-on experience delivering web and mobile solutions for businesses and small-to-medium enterprises. I focus on writing clean, maintainable code and delivering projects on time with clear and professional communication.`
 
@@ -23,9 +31,29 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 - UI Implementation from Design
 - System Maintenance & Feature Enhancement
 
+---
+
+## Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wafley&radius=16&theme=dracula&area=true&order=5" alt="activity-graph graph" />
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=wafley&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+</div>
+
+<div align="center">
+    <img src="https://wafley-github-readme-stats.vercel.app/api?username=wafley&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
+</div>
+
+<div align="center">
+    <a href="https://github.com/wafley" align="left">
+        <img src="https://wafley-github-readme-stats.vercel.app/api/top-langs/?username=wafley&langs_count=10&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+</div>
+
 <!-- LINKS & IMAGES -->
 
 [website-url]: https://elsecx.vercel.app
-[view-shield]: https://komarev.com/ghpvc/?username=wafley&style=for-the-badge&abbreviated=true
-[stars-shield]: https://img.shields.io/github/stars/wafley?style=for-the-badge&label=total%20stars
-[commits-shield]: https://img.shields.io/github/commit-activity/t/wafley/contribution?style=for-the-badge&label=commits
+[view-shield]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwafley&label=Visitors&countColor=%23ff6e96&labelStyle=upper
+[stars-shield]: https://img.shields.io/github/stars/wafley?style=for-the-badge&label=total%20stars&color=ff6e96
+[commits-shield]: https://img.shields.io/github/commit-activity/t/wafley/contribution?style=for-the-badge&label=commits&color=ff6e96
