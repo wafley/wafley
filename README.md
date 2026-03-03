@@ -1,17 +1,33 @@
-📊 **GitHub Contribution**
+# Alwafey (el)
 
-<img src="https://raw.githubusercontent.com/wafley/wafley/output/snake.svg" alt="Snake animation" />
+_Full-Stack Web Developer | PHP & JavaScript Specialist_
 
-⚙️ **Other Stats**
+> **Open for remote freelance opportunities and long-term collaborations.**
 
 ![Profile Views][view-shield]
 ![Total Stars][stars-shield]
-[![Comments][comments-shield]][comments-url]
+![Commits][commits-shield]
+
+<img src="https://raw.githubusercontent.com/wafley/wafley/output/snake.svg" alt="Snake animation" />
+
+```
+I am a freelance Full-Stack Developer with hands-on experience delivering web and mobile solutions for businesses and small-to-medium enterprises. I focus on writing clean, maintainable code and delivering projects on time with clear and professional communication.
+```
+
+---
+
+## Core Services
+
+- Custom Web Application Development
+- REST API Development
+- Frontend Development (Modern JavaScript)
+- Cross-Platform Mobile Apps (React Native)
+- UI Implementation from Design
+- System Maintenance & Feature Enhancement
 
 <!-- LINKS & IMAGES -->
 
 [website-url]: https://elsecx.vercel.app
 [view-shield]: https://komarev.com/ghpvc/?username=wafley&style=for-the-badge&abbreviated=true
 [stars-shield]: https://img.shields.io/github/stars/wafley?style=for-the-badge&label=total%20stars
-[comments-shield]: https://img.shields.io/github/discussions/wafley/wafley?style=for-the-badge&label=comments
-[comments-url]: https://github.com/wafley/wafley/discussions
+[commits-shield]: https://img.shields.io/github/commit-activity/t/wafley/contribution?style=for-the-badge&label=commits
