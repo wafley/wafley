@@ -33,6 +33,32 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 
 ---
 
+## Technical Stack
+
+**Backend**
+
+- `PHP`
+- `RESTful API Development`
+- `MySQL / PostgreSQL`
+
+**Frontend**
+
+- `JavaScript`
+- `TypeScript`
+- `Modern UI development`
+
+**Mobile**
+
+- `React Native`
+
+**Tools & Workflow**
+
+- `Git Version Control`
+- `API Testing`
+- S`tructured & maintainable code practices`
+
+---
+
 ## This week in code
 
 <!--START_SECTION:waka-->
