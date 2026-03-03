@@ -36,6 +36,13 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 ## This week in code
 
 <!--START_SECTION:waka-->
+
+```bash
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
