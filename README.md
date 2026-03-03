@@ -33,6 +33,11 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wafley&radius=16&theme=dracula&area=true&order=5" alt="activity-graph graph" />

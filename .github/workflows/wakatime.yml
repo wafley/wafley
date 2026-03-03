@@ -1,0 +1,24 @@
+name: Wakatime
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: "0 0 * * *" # runs every day at midnight
+
+jobs:
+    update-readme:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - uses: athul/waka-readme@master
+              with:
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                  SHOW_TITLE: true
+                  SECTION_NAME: waka
+                  TIME_RANGE: last_7_days
+                  LANG_COUNT: 5
+                  SHOW_TIME: true
+                  SHOW_TOTAL: false
+                  STOP_AT_OTHER: true
