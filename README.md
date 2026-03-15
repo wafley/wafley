@@ -55,7 +55,7 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 
 - `Git Version Control`
 - `API Testing`
-- S`tructured & maintainable code practices`
+- `Structured & maintainable code practices`
 
 ---
 
