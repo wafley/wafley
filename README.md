@@ -91,6 +91,13 @@ No activity tracked
     </a>
 </div>
 
+<div align="center">
+  <h3>🎧 Feels Like</h3>
+  <a href="https://open.spotify.com/user/31qwobi7mt66js6yrxl2la5wpmsu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qwobi7mt66js6yrxl2la5wpmsu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
 <!-- LINKS & IMAGES -->
 
 [website-url]: https://elsecx.vercel.app
