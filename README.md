@@ -38,6 +38,7 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 **Backend**
 
 - `PHP`
+- `GO`
 - `RESTful API Development`
 - `MySQL / PostgreSQL`
 
