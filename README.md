@@ -65,12 +65,13 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 4 hrs 20 mins
+Total Time: 4 hrs 52 mins
 
-Go         3 hrs 49 mins         >>>>>>>>>>>>>>>>>>>>>>---   86.11 %
-Markdown   31 mins               >>>----------------------   11.67 %
-Other      5 mins                >------------------------   02.19 %
-Text       0 secs                -------------------------   00.03 %
+Go               3 hrs 49 mins         >>>>>>>>>>>>>>>>>>>------   75.76 %
+Markdown         41 mins               >>>----------------------   13.84 %
+Blade Template   17 mins               >------------------------   05.75 %
+Other            10 mins               >------------------------   03.40 %
+Git Config       2 mins                -------------------------   00.99 %
 ```
 
 <!--END_SECTION:waka-->
