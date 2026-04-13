@@ -23,7 +23,7 @@ jobs:
                   SHOW_TIME: true
                   SHOW_TOTAL: true
                   STOP_AT_OTHER: false
-                  IGNORED_LANGUAGES: YAML JSON TOML SVG TXT
+                  IGNORED_LANGUAGES: YAML JSON TOML SVG TXT Markdown
                   # Commit
                   COMMIT_MESSAGE: "chore: update WakaTime stats"
                   TARGET_BRANCH: main
