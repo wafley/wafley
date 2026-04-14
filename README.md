@@ -1,7 +1,3 @@
-<p align="center" width="100%">
-  <img width="100%" src="images/github-header-banner.png" alt="Elgin Al-wafi">
-</p>
-
 # Elgin Al-wafi Dauliyah
 
 _Full-Stack Web Developer | PHP & JavaScript Specialist_
@@ -12,51 +8,7 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 ![Total Stars][stars-shield]
 ![Commits][commits-shield]
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wafley/wafley/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wafley/wafley/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wafley/wafley/output/pacman-contribution-graph.svg">
-</picture>
-
 `I am a freelance Full-Stack Developer with hands-on experience delivering web and mobile solutions for businesses and small-to-medium enterprises. I focus on writing clean, maintainable code and delivering projects on time with clear and professional communication.`
-
----
-
-## Core Services
-
-- Custom Web Application Development
-- REST API Development
-- Frontend Development (Modern JavaScript)
-- Cross-Platform Mobile Apps (React Native)
-- UI Implementation from Design
-- System Maintenance & Feature Enhancement
-
----
-
-## Technical Stack
-
-**Backend**
-
-- `PHP`
-- `GO`
-- `RESTful API Development`
-- `MySQL / PostgreSQL`
-
-**Frontend**
-
-- `JavaScript`
-- `TypeScript`
-- `Modern UI development`
-
-**Mobile**
-
-- `React Native`
-
-**Tools & Workflow**
-
-- `Git Version Control`
-- `API Testing`
-- `Structured & maintainable code practices`
 
 ---
 
@@ -78,6 +30,17 @@ Other            2 mins                -------------------------   00.92 %
 
 ---
 
+## Core Services
+
+- Custom Web Application Development
+- REST API Development
+- Frontend Development (Modern JavaScript)
+- Cross-Platform Mobile Apps (React Native)
+- UI Implementation from Design
+- System Maintenance & Feature Enhancement
+
+---
+
 ## Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wafley&radius=16&theme=dracula&area=true&order=5" alt="activity-graph graph" />
@@ -94,15 +57,6 @@ Other            2 mins                -------------------------   00.92 %
     <a href="https://github.com/wafley" align="left">
         <img src="https://wafley-stats.vercel.app/api/top-langs/?username=wafley&langs_count=10&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
-</div>
-
----
-
-<div align="center">
-  <h3>🎧 Feels Like</h3>
-  <a href="https://open.spotify.com/user/31qwobi7mt66js6yrxl2la5wpmsu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qwobi7mt66js6yrxl2la5wpmsu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 <!-- LINKS & IMAGES -->
