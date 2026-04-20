@@ -17,12 +17,12 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 8 hrs 24 mins
+Total Time: 9 hrs 7 mins
 
-Python              3 hrs 54 mins         >>>>>>>>>>>>-------------   46.44 %
-Bash                3 hrs 30 mins         >>>>>>>>>>---------------   41.65 %
-Text                19 mins               >------------------------   03.79 %
-Debian Sourcelist   1 min                 -------------------------   00.34 %
+Bash                4 hrs 13 mins         >>>>>>>>>>>>-------------   46.22 %
+Python              3 hrs 54 mins         >>>>>>>>>>>--------------   42.81 %
+Text                19 mins               >------------------------   03.49 %
+Debian Sourcelist   1 min                 -------------------------   00.31 %
 ```
 
 <!--END_SECTION:waka-->
