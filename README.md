@@ -12,6 +12,12 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 
 ---
 
+Follow my second account to see my other contributions:
+
+[![Follow @bytewaffley](https://img.shields.io/badge/Follow-%40bytewaffley-blue?style=social&logo=github)](https://github.com/bytewaffley)
+
+---
+
 ## This week in code
 
 <!--START_SECTION:waka-->
