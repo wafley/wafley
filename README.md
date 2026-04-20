@@ -12,9 +12,10 @@ _Full-Stack Web Developer | PHP & JavaScript Specialist_
 
 ---
 
-Follow my second account to see my other contributions:
+Follow my other accounts to see my other contributions:
 
-[![Follow @bytewaffley](https://img.shields.io/badge/Follow-%40bytewaffley-blue?style=social&logo=github)](https://github.com/bytewaffley)
+- [![Follow @aalwf](https://img.shields.io/badge/Follow-%40aalwf-blue?style=social&logo=github)](https://github.com/aalwf)
+- [![Follow @bytewaffley](https://img.shields.io/badge/Follow-%40bytewaffley-blue?style=social&logo=github)](https://github.com/bytewaffley)
 
 ---
 
