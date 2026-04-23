@@ -56,12 +56,12 @@ Blade Template      18 mins               >------------------------   02.76 %
 </div>
 
 <div align="center">
-    <img src="https://wafley-stats.vercel.app/api?username=wafley&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
+    <img src="https://bytewaffley-stats.vercel.app/api?username=wafley&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" />
 </div>
 
 <div align="center">
     <a href="https://github.com/wafley" align="left">
-        <img src="https://wafley-stats.vercel.app/api/top-langs/?username=wafley&langs_count=10&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+        <img src="https://bytewaffley-stats.vercel.app/api/top-langs/?username=wafley&langs_count=10&title_color=ff6e96&text_color=ffffff&bg_color=282a36&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
     </a>
 </div>
 
