@@ -24,12 +24,7 @@ Follow my other accounts to see my other contributions:
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 28 mins
-
-Blade Template   18 mins               >>>>>>>>>>>>>>>>---------   63.86 %
-PHP              6 mins                >>>>>>-------------------   23.30 %
-Other            0 secs                >------------------------   02.79 %
-Bash             0 secs                >------------------------   02.00 %
+Total Time: 2 mins
 ```
 
 <!--END_SECTION:waka-->
