@@ -24,7 +24,9 @@ Follow my other accounts to see my other contributions:
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 2 mins
+Total Time: 0 secs
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
