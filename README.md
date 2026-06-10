@@ -24,12 +24,12 @@ Follow my other accounts to see my other contributions:
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 35 hrs 20 mins
+Total Time: 32 hrs 58 mins
 
-TypeScript       30 hrs 10 mins        >>>>>>>>>>>>>>>>>>>>>----   85.33 %
-Text             1 hr 40 mins          >------------------------   04.76 %
-SQL              42 mins               -------------------------   01.98 %
-JavaScript       8 mins                -------------------------   00.39 %
+TypeScript       28 hrs 32 mins        >>>>>>>>>>>>>>>>>>>>>----   84.29 %
+Text             1 hr 40 mins          >------------------------   04.97 %
+Other            53 mins               >------------------------   02.62 %
+SQL              45 mins               >------------------------   02.22 %
 ```
 
 <!--END_SECTION:waka-->
