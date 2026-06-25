@@ -1,6 +1,6 @@
 # Elgin Al-wafi Dauliyah
 
-_Full-Stack Web Developer | PHP & JavaScript Specialist_
+_Programmer | Web & Mobile Developer_
 
 > **Open for remote freelance opportunities and long-term collaborations.**
 
