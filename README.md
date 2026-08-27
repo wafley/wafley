@@ -43,7 +43,7 @@ HTML         46 mins               >------------------------   02.42 %
 
 ## Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wafley&radius=16&theme=dracula&area=true&order=5" alt="activity-graph graph" />
+<img src="https://bytewaffley-activity-graph.vercel.app/graph?username=wafley&radius=16&theme=dracula&area=true&order=5" alt="activity-graph graph" />
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=wafley&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
