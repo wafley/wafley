@@ -24,12 +24,11 @@ Follow my other accounts to see my other contributions:
 <!--START_SECTION:waka-->
 
 ```bash
-Total Time: 31 hrs 29 mins
+Total Time: 31 hrs 45 mins
 
-TypeScript   25 hrs 49 mins        >>>>>>>>>>>>>>>>>>>>-----   81.03 %
-HTML         1 hr 11 mins          >------------------------   03.76 %
-CSS          59 mins               >------------------------   03.10 %
-JavaScript   37 mins               -------------------------   01.96 %
+TypeScript   24 hrs 41 mins        >>>>>>>>>>>>>>>>>>>------   76.82 %
+CSS          59 mins               >------------------------   03.08 %
+HTML         46 mins               >------------------------   02.42 %
 ```
 
 <!--END_SECTION:waka-->
