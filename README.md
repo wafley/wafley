@@ -1,6 +1,6 @@
 # ELGIN AL-WAFI DAULIYAH (`wafley`)
 
-_Software Engineer Powered by AI_
+_Software Engineer_
 
 > **Open for remote freelance opportunities and long-term collaborations.**
 
