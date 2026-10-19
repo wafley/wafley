@@ -1,6 +1,12 @@
 # ELGIN AL-WAFI DAULIYAH (`wafley`)
 
-_Software Engineer_
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=true&text=WAFLEY&textBg=false&fontColor=ff6e96&fontSize=75&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=-2&stroke=000000&strokeWidth=12&desc=SOFTWARE+ENGINEER&descSize=20&descAlign=50&descAlignY=65"
+    width="100%"
+    alt="Project Software Engineer"
+  />
+</p>
 
 > **Open for remote freelance opportunities and long-term collaborations.**
 
