@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=header&reversal=true&text=WAFLEY&textBg=false&fontColor=ff6e96&fontSize=75&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=-2&stroke=000000&strokeWidth=12&desc=SOFTWARE+ENGINEER&descSize=20&descAlign=50&descAlignY=65"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff6e96&section=header&reversal=false&text=WAFLEY&textBg=false&fontSize=90&fontAlign=45&fontAlignY=40&animation=twinkling&stroke=ff6e96&strokeWidth=12&desc=SOFTWARE+ENGINEER&descSize=28&descAlign=55&descAlignY=60"
     width="100%"
     alt="Project Software Engineer"
   />
